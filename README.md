@@ -1,7 +1,7 @@
 # organizador-ir
 > Planilha interativa em Excel para organizar e validar dados da Declaração de Imposto de Renda, com menus de navegação, validações automáticas e uma interface intuitiva. Ideal para centralizar suas informações fiscais de forma prática e eficiente.
 
-![Banner](./images/simulador_banner.png)
+![Menu_Princiapal](./images/menu_principal.png)
 
 # 💰 Organizador de Declaração de Imposto de Renda
 
